@@ -161,7 +161,7 @@ export default function App() {
                   </div>
                   <div>
                     <p className="text-xs font-bold uppercase tracking-widest opacity-70">Código Bizum</p>
-                    <p className="text-2xl font-black tracking-tighter">04231</p>
+                    <p className="text-2xl font-black tracking-tighter">13246</p>
                   </div>
                 </div>
               </div>
